@@ -1,8 +1,8 @@
 # portfoliEXP 01 - PORTFOLIO
-AIM:
+## AIM:
 To create a portfolio using HTML and CSS
 
-ALGORITHM:
+## ALGORITHM:
 Set up the basic structure of your HTML document.
 
 Create a CSS file named "styles.css" and link it to your HTML document. This file will contain the CSS rules for styling your portfolio.
@@ -17,7 +17,8 @@ Apply responsive design techniques to ensure your portfolio looks good on differ
 
 Apply CSS styling to your portfolio elements by targeting their respective classes or IDs in the "styles.css" file. Customize the colors, fonts, spacing, and other visual properties to match your desired design.
 
-CODE:
+## CODE:
+```
 HTML CSS CODE:
 
 <!DOCTYPE html>
@@ -268,9 +269,9 @@ HTML CSS CODE:
 </body>
 </html>
 
+```
+## OUTPUT:
 
-OUTPUT:
 
-
-RESULT:
+## RESULT:
 Thus, a Portfolio is created using HTML and CSS.
