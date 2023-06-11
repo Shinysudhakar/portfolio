@@ -3,19 +3,19 @@
 To create a portfolio using HTML and CSS
 
 ## ALGORITHM:
-Set up the basic structure of your HTML document.
+1) Set up the basic structure of your HTML document.
 
-Create a CSS file named "styles.css" and link it to your HTML document. This file will contain the CSS rules for styling your portfolio.
+2) Create a CSS file named "styles.css" and link it to your HTML document. This file will contain the CSS rules for styling your portfolio.
 
-Design the layout of your portfolio using HTML elements such as < header >, < nav >, < section >, < article >, and < footer >. Use appropriate classes or IDs to style these elements later with CSS.
+3) Design the layout of your portfolio using HTML elements such as < header >, < nav >, < section >, < article >, and < footer >. Use appropriate classes or IDs to style these elements        later with CSS.
 
-Add a header section to display your name or the title of your portfolio.
+4) Add a header section to display your name or the title of your portfolio.
 
-Add images or media to enhance your portfolio. You can use the  tag to display images and embed videos or other media using appropriate HTML tags.
+5) Add images or media to enhance your portfolio. You can use the  tag to display images and embed videos or other media using appropriate HTML tags.
 
-Apply responsive design techniques to ensure your portfolio looks good on different devices and screen sizes. Use CSS media queries to adjust the layout and styling as needed.
+6) Apply responsive design techniques to ensure your portfolio looks good on different devices and screen sizes. Use CSS media queries to adjust the layout and styling as needed.
 
-Apply CSS styling to your portfolio elements by targeting their respective classes or IDs in the "styles.css" file. Customize the colors, fonts, spacing, and other visual properties to match your desired design.
+7) Apply CSS styling to your portfolio elements by targeting their respective classes or IDs in the "styles.css" file. Customize the colors, fonts, spacing, and other visual properties to    match your desired design.
 
 ## CODE:
 ```
