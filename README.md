@@ -272,6 +272,10 @@ HTML CSS CODE:
 ```
 ## OUTPUT:
 
+![IMG-20230611-WA0073](https://github.com/Shinysudhakar/portfolio/assets/127575325/4e7b0ae8-0852-4afb-9aa8-ff19655afc22)
+![IMG-20230611-WA0074](https://github.com/Shinysudhakar/portfolio/assets/127575325/b1e8e1ba-5ae0-4679-9198-582a82f2ad82)
+![IMG-20230611-WA0075](https://github.com/Shinysudhakar/portfolio/assets/127575325/0f8cccdf-e400-4256-9263-55c59e6dcaf9)
+
 
 ## RESULT:
 Thus, a Portfolio is created using HTML and CSS.
